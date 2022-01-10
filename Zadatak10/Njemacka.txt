@@ -1,0 +1,5 @@
+Berlin 3400000
+Frankfurt 680000
+Hamburg 1800000
+Dortmund 580000
+Stuttgart 600000
