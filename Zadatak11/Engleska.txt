@@ -1,0 +1,6 @@
+London 9000000
+Bristol 430000
+Manchester 580000
+Liverpool 470000
+Birmingham 1100000
+Leeds 790000
